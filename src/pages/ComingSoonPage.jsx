@@ -112,11 +112,11 @@ export default function ComingSoonPage() {
           </svg>
           <span className="logo-text">TRAX<span>ELON</span></span>
         </a>
-        <div className="nav-links">
+        {/* <div className="nav-links">
           <a href="#">Home</a>
           <a href="#">About Us</a>
           <a href="#">Contact</a>
-        </div>
+        </div> */}
       </nav>
 
       {/* ── MAIN ── */}
