@@ -9,7 +9,7 @@ import emailjs from "@emailjs/browser"
 // ─────────────────────────────────────────────────────────
 // 🔴 CONFIGURE THESE — from emailjs.com
 // ─────────────────────────────────────────────────────────
-const EMAILJS_SERVICE_ID  = "service_zakhdwb"   // ← your Service ID
+const EMAILJS_SERVICE_ID  = "service_zwfuv1o"   // ← your Service ID
 const EMAILJS_TEMPLATE_ID = "template_p2j5iib"  // ← your Template ID
 const EMAILJS_PUBLIC_KEY  = "h4qAw20hu0qMSU0Qh"
 
