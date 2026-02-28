@@ -136,17 +136,6 @@ export default function ComingSoonPage() {
           a covert link-based tracking system — built for precision, built for results.
         </p>
 
-        {/* Countdown */}
-        <div className="countdown-label">Launching In</div>
-        <div className="countdown">
-          <CountUnit value={d} label="Days" />
-          <div className="count-sep">:</div>
-          <CountUnit value={h} label="Hours" />
-          <div className="count-sep">:</div>
-          <CountUnit value={m} label="Minutes" />
-          <div className="count-sep">:</div>
-          <CountUnit value={s} label="Seconds" />
-        </div>
 
         {/* Divider */}
         <div className="divider" />
