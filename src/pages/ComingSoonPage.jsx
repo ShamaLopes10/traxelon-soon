@@ -120,7 +120,7 @@ export default function ComingSoonPage() {
         {/* Badge */}
         <div className="badge">
           <span className="badge-dot" />
-          Law Enforcement Intelligence Tool
+          coming soon
         </div>
 
         {/* Headline */}
